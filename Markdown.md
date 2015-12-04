@@ -9,6 +9,7 @@
 
 df82e9e47dcc047d2103393d0c349a8e92962b99
 
-        if (intendeCode){
-          githubAutomaticallyFormat();
-        }
+
+'if (intendeCode){
+  githubAutomaticallyFormat();
+}'
